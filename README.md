@@ -149,4 +149,5 @@ Author
 Name: Sammi Kumar  
 Course: Speech Processing Assignment  
 
-Institute: IIIT Hyderabad
+Institute: CSVTU BHILAI
+
