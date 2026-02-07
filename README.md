@@ -123,7 +123,14 @@ timestamps.
 The files were inspected using the MFA inspect tool and by manually viewing
 the TextGrid files.
 
---------------------------------------------------
+-------------------------------------------------
+
+## Sample Alignment Visualization
+
+![Alignment Output](alignment.png)
+
+
+-------------------------------------------------
 
 Observations
 
@@ -150,4 +157,5 @@ Name: Sammi Kumar
 Course: Speech Processing Assignment  
 
 Institute: CSVTU BHILAI
+
 
