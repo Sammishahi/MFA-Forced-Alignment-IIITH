@@ -5,7 +5,7 @@ Author: Sammi Kumar
 
 --------------------------------------------------
 
-About the Project
+About the Project 
 
 This project was done as part of the Speech Processing assignment. The main
 objective is to perform forced alignment between speech audio files and their
